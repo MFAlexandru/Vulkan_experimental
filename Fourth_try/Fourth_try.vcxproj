@@ -148,12 +148,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="IntitFunctions.cpp" />
     <ClCompile Include="Main.cpp" />
-    <ClCompile Include="Triangle.cpp" />
+    <ClInclude Include="GeneralUtilities.impl.h" />
+    <ClInclude Include="MemoryBuffersCommandUtilities.impl.h" />
+    <ClInclude Include="SwapChainUtilities.impl.h" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Auxiliar.h" />
-    <ClInclude Include="Triangle.h" />
+    <ClInclude Include="VulkanApk.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Fragment.frag" />

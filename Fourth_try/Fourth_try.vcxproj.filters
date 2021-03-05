@@ -18,15 +18,24 @@
     <ClCompile Include="Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Triangle.cpp">
+    <ClCompile Include="IntitFunctions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneralUtilities.h">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MemoryBuffersCommandUtilities.h">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SwapChainUtilities.h">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Triangle.h">
+    <ClInclude Include="Auxiliar.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Auxiliar.h">
+    <ClInclude Include="VulkanApk.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

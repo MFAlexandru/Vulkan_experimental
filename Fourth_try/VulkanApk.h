@@ -1,7 +1,7 @@
 #pragma once
 #include "Auxiliar.h"
 
-class HelloTriangleApplication {
+class VulkanApk {
 public:
     void run();
 

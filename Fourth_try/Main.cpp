@@ -1,9 +1,9 @@
-#include "Triangle.h"
+#include "VulkanApk.h"
 
 #include <iostream>
 
 int main() {
-    HelloTriangleApplication app;
+    VulkanApk app;
 
     try {
         app.run();
